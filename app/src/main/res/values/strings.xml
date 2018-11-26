@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Main Activity strings-->
+    <string name="luxor_intro">Luxor is a city on the east bank of the Nile River in southern Egypt.
+        It\'s on the site of ancient Thebes\, the pharaohs\’ capital at the height of their power\,
+        during the 16th–11th centuries B.C. Today\'s city surrounds 2 huge\, surviving ancient
+        monuments: graceful Luxor Temple and Karnak Temple\, a mile north. The royal tombs of the
+        Valley of the Kings and the Valley of the Queens are on the river\’s west bank.</string>
+
+    <string name="luxor_etymology">The name Luxor comes from the Arabic al-\ʾuqṣur (الأقصر),
+        lit. "the palaces", from the collective plural of qaṣr (قصر), which may be a loanword from the Latin castrum "fortified camp".</string>
+
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="temples_title">Temples</string>
+    <string name="landmarks_title">Landmarks</string>
+    <string name="hospitals_title">Hospitals</string>
+    <string name="hostels_title">Hostels</string>
+    <string name="hotels_title">Hotels</string>
+    <string name="restaurants_title">Restaurants &amp; Dinning</string>
+    <string name="shopping_title">Shopping</string>
+    <string name="transports_title">Transportation</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

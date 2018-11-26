@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.reem.tourguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Declaring all activities as children of the main activity -->
+        <activity android:name="activities.TemplesActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.LandmarksActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.HotelsActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.RestaurantsActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.ShoppingPlacesActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.TransportsActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.HospitalsActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name="activities.HostelsActivity"
+            android:parentActivityName=".MainActivity"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#61300c</color>
+    <color name="colorPrimaryDark">#452201</color>
+
+    <color name="list_item_back">#efe8c1</color>
+    <color name="list_back">#f7f6f4</color>
+
+    <color name="address_color">#c6072d</color>
+
+    <color name="chocolate">#c6934910</color>
+    <color name="sandy_brown">#ffb576</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="wheat">#F5DEB3</color>
+
+    <color name="hospitals_back">#e4d989</color>
+
+
+
+</resources>
