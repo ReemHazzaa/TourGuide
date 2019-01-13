@@ -1,17 +1,6 @@
 <resources>
     <string name="app_name">Tour Guide</string>
 
-    <!-- Main Activity strings-->
-    <string name="luxor_intro">Luxor is a city on the east bank of the Nile River in southern Egypt.
-        It\'s on the site of ancient Thebes\, the pharaohs\’ capital at the height of their power\,
-        during the 16th–11th centuries B.C. Today\'s city surrounds 2 huge\, surviving ancient
-        monuments: graceful Luxor Temple and Karnak Temple\, a mile north. The royal tombs of the
-        Valley of the Kings and the Valley of the Queens are on the river\’s west bank.</string>
-
-    <string name="luxor_etymology">The name Luxor comes from the Arabic al-\ʾuqṣur (الأقصر),
-        lit. "the palaces", from the collective plural of qaṣr (قصر), which may be a loanword from the Latin castrum "fortified camp".</string>
-
-
     <!-- Navigation Drawer menu labels -->
     <string name="temples_title">Temples</string>
     <string name="landmarks_title">Landmarks</string>
@@ -22,10 +11,300 @@
     <string name="shopping_title">Shopping</string>
     <string name="transports_title">Transportation</string>
 
-    <!-- Toolbar titles when navigation menu item is selected -->
+    <!-- Main Activity strings -->
+    <string name="luxor">Luxor</string>
+    <string name="luxor_intro">
+        Luxor is a city on the east bank of the Nile River in southern Egypt. 
+        It\'s on the site of ancient Thebes, the pharaohs\’ capital at the height of their power, 
+        during the 16th–11th centuries B.C.\n\nToday\'s city surrounds 2 huge, surviving
+        ancient monuments: graceful Luxor Temple and Karnak Temple,
+        a mile north. The royal tombs of the Valley of the Kings and the Valley of the Queens are on the river’s west bank.
+    </string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="travel_guide">Luxor travel guide</string>
+    <string name="things_to_do">Things to do in Luxor</string>
+    <string name="dining">Local Dining</string>
+    <string name="shop">Shopping</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="places_to_go">Places to go in Luxor</string>
 
+    <!-- modern_place_item.xml strings -->
+    <string name="full_rating_value">/5</string>
+    <string name="call">Call</string>
+    <string name="night_price_as_low_as">Nightly rates as low as: $</string>
 
+    <!-- TemplesActivity strings-->
+    <!-- Temples Headers' strings-->
+    <string name="karnak_header">Temple of Karnak</string>
+    <string name="luxor_header">Temple of Luxor</string>
+    <string name="setti_header">Temple of The Setti1</string>
+    <string name="merneptah_header">Temple of Merneptah</string>
+
+    <!-- Temples Info strings-->
+    <string name="karnak_info">
+        Known as Ipet-isut by the ancient Egyptians, the Temple of Karnak is in fact a whole city of
+        temples that were constructed over two millennia ago and were originally made
+        in tribute to the Theben triad of Amon, Mut and Khonsu.\n\n
+        Within easy reach of central Luxor, this entire ancient city covers some 200 acres / 120 hectares, with the
+        many attractions at the Amon enclosure alone covering a massive 60 acres / 36 hectares.\n\nThe biggest
+        temple at the heart of the city is awesome and so big
+        that the cathedrals of Notre Dame, St. Peter\'s and Milan would be lost within its
+        spacious confines.\n\nThe 54,000 square-foot Hypostyle Hall has a total of 134 columns
+        and is hailed as the largest room within a religious building anywhere in the world.
+    </string>
+
+    <string name="luxor_info">
+        The Temple of Luxor was built largely by King Ramesses II and King Amenhotep III and was
+        constructed with the intention of being the focal point of the city\'s most popular festival,
+        known as the Festival of Opet.\n\nThis grand temple is a magnificent structure with many
+        separate sections, each of which was designed with a specific purpose in mind with regards to the festival.\n\n
+        Some of the most famous buildings and attractions include the Pylons, Court of Ramesses II,
+        Mosque of Abu\'l Haggag and the Court of Amenhotep II.
+    </string>
+
+    <string name="setti_info">
+        Luxor\'s Temple of the Seti 1 was once one of the biggest temples in Thebes and although
+        much of the original structure no longer remains, those parts that are still standing
+        are certainly worth viewing.\n\nThe temple dates back to the 13th century and contains many
+        interesting stone carvings with depictions that pay homage
+        to Amon, Mut and Khonsu.
+    </string>
+
+    <string name="merneptah_info">
+        The original Mortuary Temple of Merneptah was all but destroyed.\n\n
+        However it has been faithfully reconstructed and is now one of the newest sights of interest
+        on Luxor\'s West Bank.\n\nWhile many of the interior details (such as wall reliefs) that one would
+        expect to find in a temple of this nature are not evident, the construction offers a highly accurate
+        impression of the exterior and interior architectural features of a 19th Dynasty funerary compound.
+    </string>
+
+    <!-- LandmarksActivity strings-->
+    <!-- Landmarks Headers' strings-->
+    <string name="sphinxes_header">Avenue of the Sphinxes</string>
+    <string name="memnon_header">Colossi of Memnon</string>
+    <string name="kings_valley_header">Valley of the kings</string>
+    <string name="deir_medina_header">Deir el-Medina</string>
+
+    <!-- Landmarks Info strings-->
+    <string name="sphinxes_info">
+        The remains of these historic sphinxes make some interesting
+        monumental sights that provide good photo opportunities for enthusiastic tourists visiting Luxor.\n\nStretching
+        about 3 km / 2 miles, the Avenue of the Sphinxes is the remains of a walkway that once connected
+        the temples of Luxor and Karnak, and was home to a number of human-headed sphinxes.\n\nThe walkway\'s main
+        purpose was to facilitate the movement of the images of Amon, Mut and Khonsu which
+        were carried between the two temples in a once yearly festival.
+    </string>
+
+    <string name="memnon_info">
+        Located on the west bank of Luxor, about half a kilometre east of the Antiquities
+        Inspectorate, the Colossi of Memnon are two giant sandstone statues standing 23 metres / 75 feet high.\n\n
+        A temple originally stood on the same site and the Colossi were built as its guardians.\n\n
+        The characters of the statues are seated on huge granite plinths and these local landmarks look quite magnificent
+        looming over what is now a busy road.\n\n
+        Some other remains can be found in the same area, among which are two headless sphinxes.
+    </string>
+
+    <string name="kings_valley_info">
+        While the Valley of the Kings is considerably less grand than the Pyramids in terms of Egyptian funerary complexes,
+        it is still well worth a visit and is amongst Luxor\'s most-visited tourist attractions.\n\n
+        The Valley of the Kings illustrates some aspects of the Egyptian concept of the afterlife that the Pyramids do
+        not.\n\nSome 30 to 40 tombs are open for visitor exploration, although it would be highly ambitious to
+        expect to see so many and taking a look around five is usually sufficient for most tourists.\n\n
+        Among the more popular tombs are those of Ramesses IV, Ramesses IX, Merneptah and Ramesses VI.
+    </string>
+
+    <string name="deir_medina_info">
+        Otherwise known as the Artisan Village, Deir el-Medina is close to central Luxor and is the remains of
+        an old Egyptian township that was previously inhabited by various craftsmen following its founding by TuthmoseI.\n\n
+        The craftspeople who called this town home were responsible for decorating the tombs in the Valley of the Kings.\n\n
+        Little or nothing is left of the original town except the stone walls which ran its perimeter
+        and marked out streets and houses.\n\nAttractions at Deir el-Medina include two tombs within the
+        town, which house the remains of some of the workers and also contain some interesting wall paintings.
+    </string>
+
+    <!-- Hospitals Activity strings-->
+    <!-- Hospitals data -->
+    <!-- 1st hospital -->
+    <string name="hospital_one_name">Luxor International Hospital</string>
+    <string name="hospital_one_address">Television St.، Gazirat Al Awameyah, Luxor Governorate</string>
+    <string name="hospital_one_phone">0952277194</string>
+
+    <!-- 2nd hospital -->
+    <string name="hospital_two_name">Animal care in egypt hospital</string>
+    <string name="hospital_two_address">Al Oksor Rd to Aswan, Al Habil, Luxor, Luxor Governorate</string>
+
+    <!-- 3rd hospital -->
+    <string name="hospital_three_name">Luxor General Hospital</string>
+    <string name="hospital_three_address">Kornish Al Nile, El-Karnak, Luxor, Luxor Governorate</string>
+    <string name="hospital_three_phone">0952372025</string>
+
+    <!-- 4th hospital -->
+    <string name="hospital_four_name">Luxor Medical Center</string>
+    <string name="hospital_four_address">Luxor City, Luxor, Luxor Governorat</string>
+    <string name="hospital_four_phone">01020047091</string>
+
+    <!-- 5th hospital -->
+    <string name="hospital_five_name">Hospital Cleopatra</string>
+    <string name="hospital_five_address">Luxor City, Luxor, Luxor Governorate</string>
+    <string name="hospital_five_phone">01210010278</string>
+
+    <!-- 6th hospital -->
+    <string name="hospital_six_name">International Eye Hospital</string>
+    <string name="hospital_six_address">Luxor City, Luxor, Luxor Governorate</string>
+    <string name="hospital_six_phone">0952284534</string>
+
+    <!-- 7th hospital -->
+    <string name="hospital_seven_name">Nile Polyclinic Luxor</string>
+    <string name="hospital_seven_address">Al Rawda Al Sharifa, Gazirat Al Awameyah, Luxor, Luxor Governorate</string>
+    <string name="hospital_seven_phone">01005299183</string>
+
+    <!-- Restaurants Activity strings-->
+    <!-- Restaurants data -->
+    <!-- 1st Restaurant -->
+    <string name="restaurant_one_name">PIZZA ROMA.IT</string>
+    <string name="restaurant_one_address">Television St.، Gazirat Al Awameyah, Luxor Governorate</string>
+    <string name="restaurant_one_phone">01118799559</string>
+
+    <!-- 2nd Restaurant -->
+    <string name="restaurant_two_name">Al - Sahaby Lane Restaurant</string>
+    <string name="restaurant_two_address">El Sahabi Street، Luxor City, Luxor Governorate</string>
+    <string name="restaurant_two_phone">0952372386</string>
+
+    <!-- 3rd Restaurant -->
+    <string name="restaurant_three_name">The Lantern Room</string>
+    <string name="restaurant_three_address">Al Rawda Al Sharifa, Gazirat Al Awameyah, Luxor Governorate</string>
+    <string name="restaurant_three_phone">0952361451</string>
+
+    <!-- 4th Restaurant -->
+    <string name="restaurant_four_name">1886 RESTAURANT</string>
+    <string name="restaurant_four_address">"Corniche el Nile street, Luxor City, Luxor, Luxor Governorate 11432"</string>
+
+    <!-- 5th Restaurant -->
+    <string name="restaurant_five_name">Aisha Restaurant</string>
+    <string name="restaurant_five_address">Al Rawda Al Sharifa, Gazirat Al Awameyah, Luxor, Luxor Governorate</string>
+    <string name="restaurant_five_phone">01005747068</string>
+
+    <!-- 6th Restaurant -->
+    <string name="restaurant_six_name">Sofra</string>
+    <string name="restaurant_six_address">90 Mohamed Farid St, Luxor</string>
+    <string name="restaurant_six_phone">0952359752</string>
+
+    <!-- 7th Restaurant -->
+    <string name="restaurant_seven_name">Sunrise Restaurant &amp; Bar</string>
+    <string name="restaurant_seven_address">Kaled Ebn Elwaled St, Luxor, Luxor Governorate</string>
+    <string name="restaurant_seven_phone">01270085503</string>
+
+    <!-- 8th Restaurant -->
+    <string name="restaurant_eight_name">Jewel Of The Nile Restaurant</string>
+    <string name="restaurant_eight_address">Rowda sharifa, Luxor, Egypt."</string>
+    <string name="restaurant_eight_phone">01064326698</string>
+
+    <!-- Hostels Activity strings-->
+    <!-- Hostels data -->
+    <!-- 1st Hostel -->
+    <string name="hostel_one_name">Bob Marley Hostel</string>
+    <string name="hostel_one_address">Luxor City, Luxor, Luxor Governorate</string>
+    <string name="hostel_one_phone">01004416536</string>
+
+    <!-- 2nd Hostel -->
+    <string name="hostel_two_name">Kareem Hostel Luxor</string>
+    <string name="hostel_two_address">Western Bank, Geziret El Boairat, Luxor</string>
+    <string name="hostel_two_phone">0952313530</string>
+
+    <!-- Transports Activity strings-->
+    <!-- Transports data -->
+    <!-- 1st Transport -->
+    <string name="transport_one_name">Upper Egypt For Transport &amp; Tourism</string>
+    <string name="transport_one_type">"Transportation service in Luxor, Egypt"</string>
+    <string name="transport_one_address">Mostashfa el Homeyat st.، Luxor City, Luxor, Luxor Governorate</string>
+    <string name="transport_one_phone">0225760261</string>
+
+    <!-- 2nd Transport -->
+    <string name="transport_two_name">Luxor International Airport</string>
+    <string name="transport_two_type">Airport in Egypt</string>
+    <string name="transport_two_address">Monshaat Al Amari, Luxor, Luxor Governorate</string>
+    <string name="transport_two_phone">0952324455</string>
+
+    <!-- 3rd Transport -->
+    <string name="transport_three_name">Qatar Airways</string>
+    <string name="transport_three_type">Airline in Luxor, Egypt</string>
+    <string name="transport_three_address">Khaled Ibn Al Walid, Gazirat Al Awameyah, Luxor, Luxor Governorate</string>
+    <string name="transport_three_phone">0952360000</string>
+
+    <!-- 4th Transport -->
+    <string name="transport_four_name">Go Bus</string>
+    <string name="transport_four_type">Transportation service in Luxor, Egypt</string>
+    <string name="transport_four_address">Luxor City, Luxor, Luxor Governorate</string>
+
+    <!-- ShoppingPlaces Activity strings-->
+    <!-- ShoppingPlaces data -->
+    <!-- Shopping places types-->
+    <string name="first_shop_type">Shopping mall in Luxor, Egypt</string>
+    <string name="second_shop_type">Art supply store in Luxor, Egypt</string>
+    <string name="third_shop_type">Electronics store in Luxor, Egypt</string>
+
+    <!-- 1st ShoppingPlace -->
+    <string name="shop_one_name">El-Dukroury Mall</string>
+    <string name="shop_one_address">Madinet Al Oqsor, Luxor, Luxor Governorate</string>
+    <string name="shop_one_phone">0952365823</string>
+
+    <!-- 2nd ShoppingPlace -->
+    <string name="shop_two_name">Habiba Gallery</string>
+    <string name="shop_two_address">Luxor City, Luxor, Luxor Governoratee</string>
+    <string name="shop_two_phone">01001242026</string>
+
+    <!-- 3rd ShoppingPlace -->
+    <string name="shop_three_name">Fair Trade Center Luxor Center</string>
+    <string name="shop_three_address">Mabad Al Karnak, Luxor City, Luxor, Luxor Governorate</string>
+    <string name="shop_three_phone">01000347900</string>
+
+    <!-- 4th ShoppingPlace -->
+    <string name="shop_four_name">Al-Rashed shops for shoes</string>
+    <string name="shop_four_address">El-Tayeb, Gazirat Al Awameyah, Luxor, Luxor Governorate</string>
+
+    <!-- 5th ShoppingPlace -->
+    <string name="shop_five_name">Smart Shop</string>
+    <string name="shop_five_address">أمتداد شارع علي بن أبي طالب الشهير بمضرب الأرز،الشارع المجاور لكلية الفنون الجميلة، امتداد نزلة الزناتي</string>
+    <string name="shop_five_phone">01001201913</string>
+
+    <!-- 6th ShoppingPlace -->
+    <string name="shop_six_name">Abbas Mansour Shopping Center</string>
+    <string name="shop_six_address">Luxor City, Luxor, Luxor Governorate</string>
+
+    <!-- 7th ShoppingPlace -->
+    <string name="shop_seven_name">Nnsensh Abaya Suwaiket</string>
+    <string name="shop_seven_address">Al Masaken Al Shaabeya, Luxor City, Luxor, Luxor Governorate</string>
+
+    <!-- 8th ShoppingPlace -->
+    <string name="shop_eight_name">Kids Club</string>
+    <string name="shop_eight_address">El-Tayeb, Gazirat Al Awameyah, Luxor, Luxor Governorate</string>
+    <string name="shop_eight_phone">01065044385</string>
+
+    <!-- Hotels Activity strings-->
+    <!-- Hotels data -->
+
+    <!-- 1st Hotel -->
+    <string name="hotel_one_name">Pavillon Winter Luxor</string>
+    <string name="hotel_one_address">Cornish el Nile st, Luxor City Center, Luxor, Egypt</string>
+    <string name="hotel_one_location">7.47 km from Luxor international airport.</string>
+
+    <!-- 2nd Hotel -->
+    <string name="hotel_two_name">Happy Land Luxor</string>
+    <string name="hotel_two_address">El Kamar Street from El-madina El-monawara Street, Luxor City Center, Luxor, Egypt.</string>
+    <string name="hotel_two_location">7.33 km from Luxor international airport.</string>
+
+    <!-- 3rd Hotel -->
+    <string name="hotel_three_name">Sofitel Winter Palace Luxor</string>
+    <string name="hotel_three_address">Corniche el Nile street, Luxor City Center, Luxor</string>
+    <string name="hotel_three_location">7.55 km from Luxor international airport.</string>
+
+    <!-- 4th Hotel -->
+    <string name="hotel_four_name">Steigenberger Nile Palace</string>
+    <string name="hotel_four_address">Khaled Ben El Walid Street, Luxor City Center, Luxor, Egypt.</string>
+    <string name="hotel_four_location">7.47 km from Luxor international airport.</string>
+
+    <!-- 5th Hotel -->
+    <string name="hotel_five_name">Iberotel Luxor</string>
+    <string name="hotel_five_address">Khaled Ibn El Walid Street, P.O.Box (28), Luxor City Center, Luxor, Egypt.</string>
+    <string name="hotel_five_location">7.68 km from Luxor international airport.</string>
 </resources>

@@ -17,22 +17,22 @@
             </intent-filter>
         </activity>
 
-        <!-- Declaring all activities as children of the main activity -->
-        <activity android:name="activities.TemplesActivity"
+        <!-- Declaring all categories as children of the main activity -->
+        <activity android:name="categories.TemplesActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.LandmarksActivity"
+        <activity android:name="categories.LandmarksActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.HotelsActivity"
+        <activity android:name="categories.HotelsActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.RestaurantsActivity"
+        <activity android:name="categories.RestaurantsActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.ShoppingPlacesActivity"
+        <activity android:name="categories.ShoppingPlacesActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.TransportsActivity"
+        <activity android:name="categories.TransportsActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.HospitalsActivity"
+        <activity android:name="categories.HospitalsActivity"
             android:parentActivityName=".MainActivity"/>
-        <activity android:name="activities.HostelsActivity"
+        <activity android:name="categories.HostelsActivity"
             android:parentActivityName=".MainActivity"/>
     </application>
 
